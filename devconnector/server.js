@@ -42,3 +42,15 @@ app.use("/api/posts", posts);
 app.listen(PORT, function() {
   console.log(`🌎  ==> API Server now listening on PORT ${PORT}!`);
 });
+
+
+// branch front-end
+// push branch, up to date
+//switch to master
+//pull
+// checkout branch
+// git merge master
+//pull master into branch
+//make changes
+//git push to branch again
+//THEN do pull request
